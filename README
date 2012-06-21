@@ -1,0 +1,16 @@
+Meego meets Arduino
+
+Examples:
+
+Using Nokia N9 UI to control on-board LED in Arduino Uno. 
+User Interface in Nokia N9 uses Meego/Harmattan QBluetooth Socket API. 
+BlueSMIRF module is used in the Arduino.
+http://harmattan-dev.nokia.com/docs/library/html/qtmobility/qbluetoothsocket.html
+
+Video :
+
+LED:
+http://www.youtube.com/watch?v=caNNgpNcFcA
+
+BUZZER:
+http://www.youtube.com/watch?v=_vlgL91FgaU
