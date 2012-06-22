@@ -14,3 +14,9 @@ http://www.youtube.com/watch?v=caNNgpNcFcA
 
 BUZZER:
 http://www.youtube.com/watch?v=_vlgL91FgaU
+
+Notes:
+Since I don't have good Qt experience, most of the UI side design is based 
+on another great project : goodspot, a SPOT Connect client for the Nokia N9
+by Travis Goodspeed
+https://github.com/travisgoodspeed/goodspot
